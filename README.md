@@ -26,7 +26,7 @@
 
 ┌──┤ ware of choice ├───────▰▰▰
 │
-├─◈ ⟦+⟧ ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+├─◈ ⟦+⟧ <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&amp;logo=ruby&amp;logoColor=white" height="28" />
 ├─◈ ⟦+⟧ ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ├─◈ ⟦+⟧ ![Zig](https://img.shields.io/badge/Zig--555?style=for-the-badge&logo=zig&logoColor=white)
 ├─◈ ⟦+⟧ ![Neovim](https://img.shields.io/badge/Neovim--555?style=for-the-badge&logo=neovim&logoColor=white)
