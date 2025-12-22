@@ -16,15 +16,15 @@
 (:   _(  _|/\  |\  \:  |        |    \    \ | \        /  |:       :)(:      "|             
  \_______)(__\_|_)  \__|         \___|\____\)  \"_____/   (________/  \_______) 
 
-┌──┤ whoami ├─────────▰▰▰
+┌──┤ whoami ├─────────────▰▰▰
 │
 ├─◈ ⟦+⟧ hakkuri
 ├─◈ ⟦+⟧ bug_bounty_hunter
 ├─◈ ⟦+⟧ aws_sec_ops
 │
-└───────────────────────────────▰▰▰
+└───────────────────────────────────────▰▰▰
 
-┌──┤ stack ├──────────▰▰▰
+┌──┤ stack ├──────────────▰▰▰
 │
 ├─◈ ⟦+⟧ <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23121011?style=for-the-badge&amp;logo=ruby&amp;logoColor=CC342D" height="28" align="absmiddle" />
 │
@@ -46,6 +46,6 @@
 │
 ├─◈ ⟦+⟧ <img alt="AWS" src="https://img.shields.io/badge/AWS-%23121011?style=for-the-badge&amp;logo=amazon&amp;logoColor=FF9900" height="28" align="absmiddle" />
 │
-└───────────────────────────────▰▰▰
+└───────────────────────────────────────▰▰▰
 
 </pre>
