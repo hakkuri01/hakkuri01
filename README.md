@@ -24,7 +24,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ stack ├───────▰▰▰
+┌──┤ stack ├──────────▰▰▰
 │
 ├─◈ ⟦+⟧ <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23121011?style=for-the-badge&amp;logo=ruby&amp;logoColor=CC342D" height="28" align="absmiddle" />
 │
