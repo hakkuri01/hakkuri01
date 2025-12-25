@@ -46,9 +46,7 @@
 │ │
 │ ├─◈ ⟦+⟧ <img alt="Asahi Linux" src="https://img.shields.io/badge/Asahi%20Linux-%23121011?style=for-the-badge&amp;logo=asahilinux&amp;logoColor=A61200" height="28" align="absmiddle" />
 │ │
-│ ├─◈ ⟦+⟧ <img alt="macOS" src="https://img.shields.io/badge/macos-%23121011?style=for-the-badge&amp;logo=apple&amp;logoColor=white" height="28" align="absmiddle" />
-│ │
-│ └─◈ ⟦+⟧ <img alt="AWS" src="https://img.shields.io/badge/AWS-%23121011?style=for-the-badge&amp;logo=amazon&amp;logoColor=FF9900" height="28" align="absmiddle" />
+│ └─◈ ⟦+⟧ <img alt="macOS" src="https://img.shields.io/badge/macos-%23121011?style=for-the-badge&amp;logo=apple&amp;logoColor=white" height="28" align="absmiddle" />
 │
 └───────────────────────────────────────▰▰▰
 
