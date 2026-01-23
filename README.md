@@ -32,11 +32,7 @@
 │ │  
 │ ├─◈ ⟦+⟧ <img alt="Zig" src="https://img.shields.io/badge/Zig-%23121011?style=for-the-badge&amp;logo=zig&amp;logoColor=F7A41D" height="28" align="absmiddle" />
 │ │
-│ ├─◈ ⟦+⟧ <img alt="JS" src="https://img.shields.io/badge/JS-%23121011?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" height="28" align="absmiddle" />
-│ │
-│ ├─◈ ⟦+⟧ <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" height="28" align="absmiddle" />
-│ │
-│ └─◈ ⟦+⟧ <img alt="Lua" src="https://img.shields.io/badge/Lua-%23121011?style=for-the-badge&amp;logo=Lua&amp;logoColor=%232C2D72" height="28" align="absmiddle" />
+│ └─◈ ⟦+⟧ <img alt="JS" src="https://img.shields.io/badge/JS-%23121011?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" height="28" align="absmiddle" />
 │
 ├─◈ ⟦+⟧ tooling
 │ │
