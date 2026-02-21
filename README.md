@@ -18,7 +18,6 @@
 
 ┌──┤ whoami ├─────────────▰▰▰
 │
-├─◈ ⟦+⟧ hakkuri
 ├─◈ ⟦+⟧ bug_bounty_hunter
 ├─◈ ⟦+⟧ aws_sec_ops
 │
@@ -40,9 +39,7 @@
 │ │
 │ ├─◈ ⟦+⟧ <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-%23121011?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=FF6633" height="28" align="absmiddle" />
 │ │
-│ ├─◈ ⟦+⟧ <img alt="Asahi Linux" src="https://img.shields.io/badge/Asahi%20Linux-%23121011?style=for-the-badge&amp;logo=asahilinux&amp;logoColor=A61200" height="28" align="absmiddle" />
-│ │
-│ └─◈ ⟦+⟧ <img alt="macOS" src="https://img.shields.io/badge/macos-%23121011?style=for-the-badge&amp;logo=apple&amp;logoColor=white" height="28" align="absmiddle" />
+│ └─◈ ⟦+⟧ <img alt="Asahi Linux" src="https://img.shields.io/badge/Asahi%20Linux-%23121011?style=for-the-badge&amp;logo=asahilinux&amp;logoColor=A61200" height="28" align="absmiddle" />
 │
 └───────────────────────────────────────▰▰▰
 
