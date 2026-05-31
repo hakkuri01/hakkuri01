@@ -25,21 +25,11 @@
 
 ┌──┤ stack ├──────────────▰▰▰
 │
-├─◈ ⟦+⟧ languages
-│ │  
-│ ├─◈ ⟦+⟧ <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23121011?style=for-the-badge&amp;logo=ruby&amp;logoColor=CC342D" height="28" align="absmiddle" />
-│ │  
-│ ├─◈ ⟦+⟧ <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23121011?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" height="28" align="absmiddle" />
-│ │
-│ └─◈ ⟦+⟧ <img alt="Zig" src="https://img.shields.io/badge/Zig-%23121011?style=for-the-badge&amp;logo=zig&amp;logoColor=F7A41D" height="28" align="absmiddle" />
+├─◈ ⟦+⟧ <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23121011?style=for-the-badge&amp;logo=ruby&amp;logoColor=CC342D" height="28" align="absmiddle" />
 │
-├─◈ ⟦+⟧ tooling
-│ │
-│ ├─◈ ⟦+⟧ <img alt="Asahi Linux" src="https://img.shields.io/badge/Asahi%20Linux-%23121011?style=for-the-badge&amp;logo=asahilinux&amp;logoColor=A61200" height="28" align="absmiddle" />
-│ │
-│ ├─◈ ⟦+⟧ <img alt="Ghostty" src="https://img.shields.io/badge/Ghostty-%23121011?style=for-the-badge&amp;logo=ghostty&amp;logoColor=white" height="28" align="absmiddle" />
-│ │
-│ └─◈ ⟦+⟧ <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%23121011?style=for-the-badge&amp;logo=neovim&amp;logoColor=57A143" height="28" align="absmiddle" />
+├─◈ ⟦+⟧ <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23121011?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" height="28" align="absmiddle" />
+│
+├─◈ ⟦+⟧ <img alt="Zig" src="https://img.shields.io/badge/Zig-%23121011?style=for-the-badge&amp;logo=zig&amp;logoColor=F7A41D" height="28" align="absmiddle" />
 │
 └───────────────────────────────────────▰▰▰
 
