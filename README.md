@@ -29,7 +29,7 @@
 │
 ├─◈ ⟦+⟧ <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23121011?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" height="28" align="absmiddle" />
 │
-├─◈ ⟦+⟧ <img alt="Zig" src="https://img.shields.io/badge/Zig-%23121011?style=for-the-badge&amp;logo=zig&amp;logoColor=F7A41D" height="28" align="absmiddle" />
+├─◈ ⟦+⟧ <img alt="C++" src="https://img.shields.io/badge/C++-%23121011?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=00599C" height="28" align="absmiddle" />
 │
 └───────────────────────────────────────▰▰▰
 
