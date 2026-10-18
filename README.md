@@ -1,36 +1,24 @@
+<table>
+<tr>
+<td>
 <pre>
-
-  __    __       __       __   ___  __   ___  ____  ____   _______    __    ____  ________  
- /" |  | "\     /""\     |/"| /  ")|/"| /  ")("  _||_ " | /"      \  |" \  ))_ ")/"       ) 
-(:  (__)  :)   /    \    (: |/   / (: |/   / |   (  ) : ||:        | ||  |(____((:   \___/  
- \/      \/   /' /\  \   |    __/  |    __/  (:  |  | . )|_____/   ) |:  |       \___  \    
- //  __  \\  //  __'  \  (// _  \  (// _  \   \\ \__/ //  //      /  |.  |        __/  \\   
-(:  (  )  :)/   /  \\  \ |: | \  \ |: | \  \  /\\ __ //\ |:  __   \  /\  |\      /" \   :)  
- \__|  |__/(___/    \___)(__|  \__)(__|  \__)(__________)|__|  \___)(__\_|_)    (_______/   
-                                                                                            
-  _______   __  ___________      _____  ___      ______    ________    _______              
- /" _   "| |" \("     _   ")    (\"   \|"  \    /    " \  |"      "\  /"     "|             
-(: ( \___) ||  |)__/  \\__/     |.\\   \    |  // ____  \ (.  ___  :)(: ______)             
- \/ \      |:  |   \\_ /        |: \.   \\  | /  /    ) :)|: \   ) || \/    |               
- //  \ ___ |.  |   |.  |        |.  \    \. |(: (____/ // (| (___\ || // ___)_              
-(:   _(  _|/\  |\  \:  |        |    \    \ | \        /  |:       :)(:      "|             
- \_______)(__\_|_)  \__|         \___|\____\)  \"_____/   (________/  \_______) 
-
+   ________  ________  ____ ___  ____ ___  ________  ________   ________ 
+  ╱    ╱   ╲╱        ╲╱    ╱   ╲╱    ╱   ╲╱    ╱   ╲╱        ╲ ╱        ╲
+ ╱         ╱         ╱         ╱         ╱         ╱         ╱_╱       ╱ 
+╱         ╱         ╱        _╱        _╱         ╱        _╱╱         ╱ 
+╲___╱____╱╲___╱____╱╲____╱___╱╲____╱___╱╲________╱╲____╱___╱ ╲________╱  
+&#10;
 ┌──┤ whoami ├─────────────▰▰▰
-│
 ├─◈ ⟦+⟧ bug_bounty_hunter
 ├─◈ ⟦+⟧ aws_sec_ops
-│
 └───────────────────────────────────────▰▰▰
-
+&#10;
 ┌──┤ stack ├──────────────▰▰▰
-│
-├─◈ ⟦+⟧ <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23121011?style=for-the-badge&amp;logo=ruby&amp;logoColor=CC342D" height="28" align="absmiddle" />
-│
-├─◈ ⟦+⟧ <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23121011?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" height="28" align="absmiddle" />
-│
-├─◈ ⟦+⟧ <img alt="C++" src="https://img.shields.io/badge/C++-%23121011?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=00599C" height="28" align="absmiddle" />
-│
+├─◈ ⟦+⟧ <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23121011?style=for-the-badge&logo=ruby&logoColor=CC342D" height="18" align="absmiddle" />
+├─◈ ⟦+⟧ <img alt="Crystal" src="https://img.shields.io/badge/Crystal-%23121011?style=for-the-badge&logo=crystal&logoColor=FFFFFF" height="18" align="absmiddle" />
+├─◈ ⟦+⟧ <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23121011?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="18" align="absmiddle" />
 └───────────────────────────────────────▰▰▰
-
 </pre>
+</td>
+</tr>
+</table>
